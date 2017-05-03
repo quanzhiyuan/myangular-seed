@@ -1,0 +1,184 @@
+[
+  {
+    "url": "personSelf.do",
+    "id": "5mGQU3WGQ+6dmhwiREYwEaYoOi4=",
+    "name": "员工自助服务",
+    "children": [
+      {
+        "url": "#",
+        "id": "tdye7fhhSniTkQlQHm7wJdj/1C4=",
+        "name": "我的假勤",
+        "children": [
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "我的考勤"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "我要请假"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "我要加班"
+          }
+        ]
+      },
+      {
+        "url": "#",
+        "id": "tdye7fhhSniTkQlQHm7wJdj/1C4=",
+        "name": "绩效考核",
+        "children": [
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "员工考核目标"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "员工考核目标确认"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "组织考核目标"
+          }
+        ]
+      },
+      {
+        "url": "#",
+        "id": "tdye7fhhSniTkQlQHm7wJdj/1C4=",
+        "name": "绩效考核2",
+        "children": [
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "员工考核目标"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "员工考核目标确认"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "组织考核目标"
+          }
+        ]
+      },
+      {
+        "url": "#",
+        "id": "tdye7fhhSniTkQlQHm7wJdj/1C4=",
+        "name": "绩效考核3",
+        "children": [
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "员工考核目标"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "员工考核目标确认"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "组织考核目标"
+          }
+        ]
+      },
+      {
+        "url": "#",
+        "id": "tdye7fhhSniTkQlQHm7wJdj/1C4=",
+        "name": "绩效考核4",
+        "children": [
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "员工考核目标"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "员工考核目标确认"
+          },
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "组织考核目标"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "manager.do",
+    "id": "5mGQU3WGQ+6dmhwiREYwEaYoOi4=",
+    "name": "经理人自助服务",
+    "children": [
+      {
+        "url": "#",
+        "id": "tdye7fhhSniTkQlQHm7wJdj/1C4=",
+        "name": "经理人自助服务管理",
+        "children": [
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "日常假期管理",
+            "children": [
+              {
+                "url": "#",
+                "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+                "name": "员工假期档案"
+              },
+              {
+                "url": "#",
+                "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+                "name": "假期额度"
+              },
+              {
+                "url": "#",
+                "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+                "name": "请假单"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "#",
+        "id": "tdye7fhhSniTkQlQHm7wJdj/1C4=",
+        "name": "经理人自助服务设置",
+        "children": [
+          {
+            "url": "#",
+            "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+            "name": "员工考核目标",
+            "children": [
+              {
+                "url": "#",
+                "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+                "name": "员工假期档案"
+              },
+              {
+                "url": "#",
+                "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+                "name": "假期额度"
+              },
+              {
+                "url": "#",
+                "id": "aNPWSJ6bSfu4Gr1Ta9qPWvI9KRA=",
+                "name": "请假单"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

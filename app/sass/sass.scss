@@ -1,0 +1,19 @@
+@import "variables";
+.ps-card {
+  background: $card-background;
+  box-shadow: $card-box-shadow;
+  border-radius: $card-border-radius;
+  width: $card-width;
+  height: $card-height;
+}
+.ps-info-card{
+  background:$card-background;
+  box-shadow:$card-box-shadow;
+  border-radius: $card-border-radius;
+  width:$ps-info-width;
+  height:$ps-info-height;
+  padding: 19px 30px;
+}
+footer{
+  background: $card-background;
+}

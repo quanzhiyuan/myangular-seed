@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>员工自助首页</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
+  <link rel="stylesheet" href="Css/header.css">
+  <link rel="stylesheet" href="Css/index.css">
+    <link rel="stylesheet" href="refs/CSS/bootstrap.min.css">
+  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+<script id="__bs_script__">//<![CDATA[
+document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.18.8'><\/script>".replace("HOST", location.hostname));
+//]]></script>
+
+<body>
+<!--<header>-->
+    <!--<img style="position: relative; top:50%;margin-top: -17.5px;" src="Images/kingdeelogo.png" >-->
+    <!--<div style="height: 100%;margin-left: 29px" class="triangle-down"></div>-->
+    <!--<div  id="platformchange" style="height: 100%;margin-left: 4px">-->
+
+        <!--<span><a href="#"></a></span>-->
+        <!--<ul style="display: none;">-->
+            <!--&lt;!&ndash;<li id="li"><a href="#">经理人自助</a></li>&ndash;&gt;-->
+            <!--&lt;!&ndash;<li id="li"><a href="#">其他</a></li>&ndash;&gt;-->
+        <!--</ul>-->
+    <!--</div>-->
+    <!--<ul id="seclevelmenu">-->
+    <!--</ul>-->
+<!--</header>-->
+<div style="background-color:#edeff4;">
+    <div class="container">
+        <person-info></person-info>
+        <yesterday-attendence></yesterday-attendence>
+        <month-attendence></month-attendence>
+        <annual-level></annual-level>
+    </div>
+</div>
+ <!--<div ng-controller="usercard1 as ctrl">-->
+   <!--<usercard ></usercard>-->
+ <!--</div>-->
+  <!-- In production use:
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+  -->
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="refs/scripts/jquery-3.1.1.min.js"></script>
+  <script src="bower_components/angular-route/angular-route.js"></script>
+  <script src="Scripts/app.js"></script>
+  <script src="Scripts/controllers.js"></script>
+  <script src="Scripts/components.js"></script>
+  <script src="Views/view1/view1.js"></script>
+  <script src="Views/view2/view2.js"></script>
+   <script src="Scripts/header.js"></script>
+  <script src="components/version/version.js"></script>
+  <script src="components/version/version-directive.js"></script>
+  <script src="components/version/interpolate-filter.js"></script>
+<script src="refs/scripts/bootstrap.min.js"></script>
+</body>
+</html>

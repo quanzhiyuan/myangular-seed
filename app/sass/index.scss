@@ -1,0 +1,30 @@
+$backgroundcolor:#edeff4;
+
+
+$card-background:#ffffff;
+$card-box-shadow:0 1px 3px 0 rgba(0,0,0,0.15);
+$card-border-radius:2px;
+$card-width:390px;
+$card-height:310px;
+
+
+$ps-info-width:336px;
+$ps-info-height:469px;@import "variables";
+.ps-card {
+  background: $card-background;
+  box-shadow: $card-box-shadow;
+  border-radius: $card-border-radius;
+  width: $card-width;
+  height: $card-height;
+}
+.ps-info-card{
+  background:$card-background;
+  box-shadow:$card-box-shadow;
+  border-radius: $card-border-radius;
+  width:$ps-info-width;
+  height:$ps-info-height;
+  padding: 19px 30px;
+}
+footer{
+  background: $card-background;
+}
